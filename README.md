@@ -1,2 +1,2 @@
 # DotnetYuzuncuYil
- .NET Yüzüncü Yil Proje
+ .NET Yüzüncü Yıl Proje
